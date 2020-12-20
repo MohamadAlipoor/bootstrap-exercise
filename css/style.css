@@ -1,0 +1,25 @@
+body {
+  direction: rtl;
+  text-align: right;
+  font-family: Vazir;
+}
+
+.navbar-text {
+  margin-right: 2.5rem;
+}
+
+navbar {
+  height: 176px;
+}
+
+.jumbotron .container {
+  max-width: 550px;
+}
+
+.jumbotron-header {
+  font-weight: 300;
+}
+
+.box-shadow {
+  box-shadow: 0 0.25rem 0.75rem 0 rgba(0, 0, 0, 0.5);
+}
